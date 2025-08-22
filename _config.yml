@@ -1,7 +1,7 @@
 title: FriendCo
 description: A clean, simple static site hosted on GitHub Pages
 url: https://www.example.com
-baseurl: ""
+baseurl: "/webtemplate"
 
 # Top navigation entries (edit here to add/remove pages)
 nav:
