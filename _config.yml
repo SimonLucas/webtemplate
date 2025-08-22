@@ -1,0 +1,20 @@
+title: FriendCo
+description: A clean, simple static site hosted on GitHub Pages
+url: https://www.example.com
+baseurl: ""
+
+# Top navigation entries (edit here to add/remove pages)
+nav:
+  - text: Home
+    url: /
+  - text: Topic 1
+    url: /topic1
+  - text: Topic 2
+    url: /topic2
+  - text: Topic 3
+    url: /topic3
+  - text: Contact
+    url: /contact
+
+# Enable kramdown Markdown processor (default on GitHub Pages)
+markdown: kramdown
